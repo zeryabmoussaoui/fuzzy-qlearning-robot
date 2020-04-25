@@ -1,4 +1,5 @@
 # Fuzzy Q-Learning Robot
+**Authors :** [El Hacene Chabane](https://www.linkedin.com/in/el-hacene-chabane-9855b6123/), [Oussama Derouiche](https://www.linkedin.com/in/oussama-derouiche-aab0a4136/), [Zeryab Moussaoui](https://fr.linkedin.com/in/zeryab-moussaoui-9a728029)
 
 This project provides a proof of concept for Fuzzy Q Learning applied to mobile robots.
 Simulations and environment only require GNU Octave, this should also work on Matlab, but we advice you to use GNU Octave.
@@ -8,7 +9,6 @@ Warning : source code needs a serious refactoring.
 
 ![](./2.Q_fuzzy%20controller/Goal%20Reach/benchmark.png)
 
-**Authors :** [El Hacene Chabane](https://www.linkedin.com/in/el-hacene-chabane-9855b6123/), [Oussama Derouiche](https://www.linkedin.com/in/oussama-derouiche-aab0a4136/), [Zeryab Moussaoui](https://fr.linkedin.com/in/zeryab-moussaoui-9a728029),
 
 ## Installation
 * Download the github project (zip)
