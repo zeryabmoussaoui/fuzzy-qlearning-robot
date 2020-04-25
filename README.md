@@ -6,6 +6,8 @@ The main propose is to be able to benchmark classical and Reinforced Fuzzy logic
 
 Warning : source code needs a serious refactoring.
 
+![](./2.Q_fuzzy%20controller/Goal%20Reach/benchmark.png)
+
 **Authors :** [El Hacene Chabane](https://www.linkedin.com/in/el-hacene-chabane-9855b6123/), [Oussama Derouiche](https://www.linkedin.com/in/oussama-derouiche-aab0a4136/), [Zeryab Moussaoui](https://fr.linkedin.com/in/zeryab-moussaoui-9a728029),
 
 ## Installation
@@ -28,7 +30,7 @@ Multiple controllers for several environment can be executed :
 
 ## Related Publications:
 
-El Hacene Chabane, Oussama Derouiche.  *National Polytechnical School of Algiers June 2018*. **Implementation of a Fuzzy Reinforcement Learning Control using 2D VSLAM** **[PDF](https://docdro.id/T6DgsSs)**
+El Hacene Chabane, Oussama Derouiche.  *National Polytechnical School of Algiers June 2018*. **Implementation of a Fuzzy Reinforcement Learning Control using 2D VSLAM** **[PDF (in french)](./presentation.pdf)**
 
 
 
